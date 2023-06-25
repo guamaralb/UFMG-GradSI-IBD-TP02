@@ -1,0 +1,168 @@
+descricaoOriginal,descricaoAdaptada,cdPergunta
+Caracterizacao do orgao gestor ,Caracterizacao do orgao gestor ,MSAU01
+Sexo do(a) titular do orgao gestor,Sexo do(a) titular do orgao gestor,MSAU03
+Idade do(a) titular do orgao gestor,Idade do(a) titular do orgao gestor,MSAU04
+Cor/raca do(a) titular do orgao gestor,Cor/raca do(a) titular do orgao gestor,MSAU05
+Foi respondido pelo proprio titular do orgao gestor,Foi respondido pelo proprio titular do orgao gestor,MSAU051
+Escolaridade do(a) titular do orgao gestor,Escolaridade do(a) titular do orgao gestor,MSAU06
+Formacao de nivel superior do titular do orgao gestor,Formacao de nivel superior do titular do orgao gestor,MSAU07
+Conselho Municipal de Saude - existencia,Conselho Municipal de Saude - existencia,MSAU10
+Lei de criacao,[CMS] Lei de criacao,MSAU101a
+Ano de criacao,[CMS] Ano de criacao,MSAU101b
+O Conselho esta,[CMS] O Conselho esta,MSAU101c
+Formacao,[CMS] [POSSUI CARATER] Formacao,MSAU102
+Consultivo,[CMS] [POSSUI CARATER] Consultivo,MSAU111
+Deliberativo,[CMS] [POSSUI CARATER] Deliberativo,MSAU112
+Normativo,[CMS] [POSSUI CARATER] Normativo,MSAU113
+Fiscalizador,[CMS] [POSSUI CARATER] Fiscalizador,MSAU114
+Quantidade de reunioes nos ultimos 12 meses,[CMS] Quantidade de reunioes nos ultimos 12 meses,MSAU12
+Numero de conselheiros (titulares e suplentes),[CMS] Numero de conselheiros (titulares e suplentes),MSAU13
+Periodicamente,[CMS] [REALIZA CAPAC. P/ MEMBROS] Periodicamente,MSAU141
+Ocasionalmente,[CMS] [REALIZA CAPAC. P/ MEMBROS] Ocasionalmente,MSAU142
+Nao realiza,[CMS] [REALIZA CAPAC. P/ MEMBROS] Nao realiza,MSAU143
+Disponibiliza infraestrutura para o funcionamento,[CMS] Disponibiliza infraestrutura para o funcionamento,MSAU15
+Sala propria,[CMS] [POSSUI/DISPONIBILIZA] Sala propria,MSAU1511
+Computador,[CMS] [POSSUI/DISPONIBILIZA] Computador,MSAU1512
+Impressora,[CMS] [POSSUI/DISPONIBILIZA] Impressora,MSAU1513
+Acesso a internet,[CMS] [POSSUI/DISPONIBILIZA] Acesso a internet,MSAU1514
+Veiculo proprio,[CMS] [POSSUI/DISPONIBILIZA] Veiculo proprio,MSAU1515
+Telefone,[CMS] [POSSUI/DISPONIBILIZA] Telefone,MSAU1516
+Diarias,[CMS] [POSSUI/DISPONIBILIZA] Diarias,MSAU1517
+Dotacao orcamentaria propria,[CMS] [POSSUI/DISPONIBILIZA] Dotacao orcamentaria propria,MSAU1518
+Transporte/Locomocao,[CMS] [POSSUI/DISPONIBILIZA] Transporte/Locomocao,MSAU1519
+Fundo Municipal de Saude - existencia,Fundo Municipal de Saude - existencia,MSAU17
+Responsavel pela gestao do fundo,[FMS] Responsavel pela gestao do fundo,MSAU171
+Conferencia Municipal de Saude - existencia,Conferencia Municipal de Saude - existencia,MSAU18
+Ano da ultima conferencia,[CONFERENCIA MUNICIPAL DE SAUDE] Ano da ultima conferencia,MSAU181
+O orgao gestor da saude faz parte de algum Colegiado de Gestao Regional,O orgao gestor da saude faz parte de algum Colegiado de Gestao Regional,MSAU19
+Quantidade de reunioes realizadas nos ultimos 12 meses,[O ORGAO GESTOR DA SAUDE FAZ PARTE DE ALGUM COLEGIADO DE GESTAO REGIONAL] Quantidade de reunioes realizadas nos ultimos 12 meses,MSAU191
+Plano Municipal de Saude - existencia,Plano Municipal de Saude - existencia,MSAU20
+Ano de elaboracao do ultimo plano,[PLANO MUN. DE SAUDE] Ano de elaboracao do ultimo plano,MSAU201
+Acoes previstas na Politica Nacional de Saude Integral da Populacao Negra foram incluidas no Plano Municipal de Saude,Acoes previstas na Politica Nacional de Saude Integral da Populacao Negra foram incluidas no Plano Municipal de Saude,MSAU21
+Os topicos saude da populacao negra e combate ao racismo estao inseridos nos cursos e processos de formacao do pessoal ocupado na area da saude,Os topicos saude da populacao negra e combate ao racismo estao inseridos nos cursos e processos de formacao do pessoal ocupado na area da saude,MSAU22
+Gestores municipais,[OS TOPICOS SAUDE DA POPULACAO NEGRA E COMBATE AO RACISMO ESTAO INSERIDOS NOS CURSOS E PROCESSOS DE FORMACAO DO PESSOAL OCUPADO NA AREA DA SAUDE] [OS CURSOS OFERECIDOS SAO DESTINADOS:] Gestores municipais,MSAU2211
+Medicos,[OS TOPICOS SAUDE DA POPULACAO NEGRA E COMBATE AO RACISMO ESTAO INSERIDOS NOS CURSOS E PROCESSOS DE FORMACAO DO PESSOAL OCUPADO NA AREA DA SAUDE] [OS CURSOS OFERECIDOS SAO DESTINADOS:] Medicos,MSAU2212
+Enfermeiros,[OS TOPICOS SAUDE DA POPULACAO NEGRA E COMBATE AO RACISMO ESTAO INSERIDOS NOS CURSOS E PROCESSOS DE FORMACAO DO PESSOAL OCUPADO NA AREA DA SAUDE] [OS CURSOS OFERECIDOS SAO DESTINADOS:] Enfermeiros,MSAU2213
+Tecnicos de nivel superior,[OS TOPICOS SAUDE DA POPULACAO NEGRA E COMBATE AO RACISMO ESTAO INSERIDOS NOS CURSOS E PROCESSOS DE FORMACAO DO PESSOAL OCUPADO NA AREA DA SAUDE] [OS CURSOS OFERECIDOS SAO DESTINADOS:] Tecnicos de nivel superior,MSAU2214
+Tecnicos de nivel medio,[OS TOPICOS SAUDE DA POPULACAO NEGRA E COMBATE AO RACISMO ESTAO INSERIDOS NOS CURSOS E PROCESSOS DE FORMACAO DO PESSOAL OCUPADO NA AREA DA SAUDE] [OS CURSOS OFERECIDOS SAO DESTINADOS:] Tecnicos de nivel medio,MSAU2215
+Agentes Comunitarios de Saude,[OS TOPICOS SAUDE DA POPULACAO NEGRA E COMBATE AO RACISMO ESTAO INSERIDOS NOS CURSOS E PROCESSOS DE FORMACAO DO PESSOAL OCUPADO NA AREA DA SAUDE] [OS CURSOS OFERECIDOS SAO DESTINADOS:] Agentes Comunitarios de Saude,MSAU2216
+Outros,[OS TOPICOS SAUDE DA POPULACAO NEGRA E COMBATE AO RACISMO ESTAO INSERIDOS NOS CURSOS E PROCESSOS DE FORMACAO DO PESSOAL OCUPADO NA AREA DA SAUDE] [OS CURSOS OFERECIDOS SAO DESTINADOS:] Outros,MSAU2217
+"Existe no municipio uma instancia especifica para conduzir, coordenar e monitorar as acoes de saude voltadas para a populacao negra","Existe no municipio uma instancia especifica para conduzir, coordenar e monitorar as acoes de saude voltadas para a populacao negra",MSAU23
+O combate as discriminacoes de genero e orientacao sexual estao inseridos nos cursos e processos de formacao do pessoal ocupado na area da saude,O combate as discriminacoes de genero e orientacao sexual estao inseridos nos cursos e processos de formacao do pessoal ocupado na area da saude,MSAU24
+Estabelecimento de saude de responsabilidade da gestao municipal - existencia,Estabelecimento de saude de responsabilidade da gestao municipal - existencia,MSAU25
+Estabelecimentos de saude administrado por terceiros - existencia,[ESTAB. DE SAUDE DE RESP. DA GESTAO MUN.] Estabelecimentos de saude administrado por terceiros - existencia,MSAU26
+Organizacao Social (OS),[ESTAB. DE SAUDE DE RESP. DA GESTAO MUN.] [ESTAB. DE SAUDE ADM. POR TERCEIROS] Organizacao Social (OS),MSAU271
+Quantidade,[ESTAB. DE SAUDE DE RESP. DA GESTAO MUN.] [ESTAB. DE SAUDE ADM. POR TERCEIROS] [ORGANIZACAO SOCIAL (OS)] Quantidade,MSAU2711
+Organizacao da Sociedade Civil de Interesse Publico (OSCIP),[ESTAB. DE SAUDE DE RESP. DA GESTAO MUN.] [ESTAB. DE SAUDE ADM. POR TERCEIROS] Organizacao da Sociedade Civil de Interesse Publico (OSCIP),MSAU272
+Quantidade,[ESTAB. DE SAUDE DE RESP. DA GESTAO MUN.] [ESTAB. DE SAUDE ADM. POR TERCEIROS] [ORGANIZACAO DA SOCIEDADE CIVIL DE INTERESSE PUBLICO (OSCIP)] Quantidade,MSAU2721
+Empresa Privada,[ESTAB. DE SAUDE DE RESP. DA GESTAO MUN.] [ESTAB. DE SAUDE ADM. POR TERCEIROS] Empresa Privada,MSAU273
+Quantidade,[ESTAB. DE SAUDE DE RESP. DA GESTAO MUN.] [ESTAB. DE SAUDE ADM. POR TERCEIROS] [EMPRESA PRIVADA] Quantidade,MSAU2731
+Cooperativa,[ESTAB. DE SAUDE DE RESP. DA GESTAO MUN.] [ESTAB. DE SAUDE ADM. POR TERCEIROS] Cooperativa,MSAU274
+Quantidade,[ESTAB. DE SAUDE DE RESP. DA GESTAO MUN.] [ESTAB. DE SAUDE ADM. POR TERCEIROS] [COOPERATIVA] Quantidade,MSAU2741
+Consorcio de Sociedade,[ESTAB. DE SAUDE DE RESP. DA GESTAO MUN.] [ESTAB. DE SAUDE ADM. POR TERCEIROS] Consorcio de Sociedade,MSAU275
+Quantidade,[ESTAB. DE SAUDE DE RESP. DA GESTAO MUN.] [ESTAB. DE SAUDE ADM. POR TERCEIROS] [CONSORCIO DE SOCIEDADE] Quantidade,MSAU2751
+Consorcio Publico,[ESTAB. DE SAUDE DE RESP. DA GESTAO MUN.] [ESTAB. DE SAUDE ADM. POR TERCEIROS] Consorcio Publico,MSAU276
+Quantidade,[ESTAB. DE SAUDE DE RESP. DA GESTAO MUN.] [ESTAB. DE SAUDE ADM. POR TERCEIROS] [CONSORCIO PUBLICO] Quantidade,MSAU2761
+Administrado por Fundacao,[ESTAB. DE SAUDE DE RESP. DA GESTAO MUN.] [ESTAB. DE SAUDE ADM. POR TERCEIROS] Administrado por Fundacao,MSAU277
+Quantidade,[ESTAB. DE SAUDE DE RESP. DA GESTAO MUN.] [ESTAB. DE SAUDE ADM. POR TERCEIROS] [ADMINISTRADO POR FUNDACAO] Quantidade,MSAU2771
+Programa de Agentes Comunitarios de Saude - existencia,Programa de Agentes Comunitarios de Saude - existencia,MSAU28
+Quantidade de agentes comunitarios de saude,Quantidade de agentes comunitarios de saude,MSAU281
+Programa de Saude da Familia - existencia,Programa de Saude da Familia - existencia,MSAU29
+Equipes,[PSF] [QNT. DE] Equipes,MSAU2911
+Auxiliar/tecnico de enfermagem,[PSF] [QNT. DE] Auxiliar/tecnico de enfermagem,MSAU2912
+Enfermeiros,[PSF] [QNT. DE] Enfermeiros,MSAU2913
+Agentes comunitarios de saude5,[PSF] [QNT. DE] Agentes comunitarios de saude5,MSAU2914
+Medicos,[PSF] [QNT. DE] Medicos,MSAU2915
+Atendimento odontologico basico - existencia,[PSF] Atendimento odontologico basico - existencia,MSAU30
+Equipes,[PSF] [ATEND. ODONT. BASICO] [QNT. DE] Equipes,MSAU3011
+Odontologos,[PSF] [ATEND. ODONT. BASICO] [QNT. DE] Odontologos,MSAU3012
+Estrutura similar ao do Programa de Saude da Familia - existencia ,Estrutura similar ao do Programa de Saude da Familia - existencia ,MSAU31
+Equipes,[ESTRUTURA SIMILAR AO PSF] [QNT. DE] Equipes,MSAU3111
+Auxiliar/tecnico de enfermagem,[ESTRUTURA SIMILAR AO PSF] [QNT. DE] Auxiliar/tecnico de enfermagem,MSAU3112
+Enfermeiros,[ESTRUTURA SIMILAR AO PSF] [QNT. DE] Enfermeiros,MSAU3113
+Agentes comunitarios de saude,[ESTRUTURA SIMILAR AO PSF] [QNT. DE] Agentes comunitarios de saude,MSAU3114
+Dentista,[ESTRUTURA SIMILAR AO PSF] [QNT. DE] Dentista,MSAU3115
+Medicos,[ESTRUTURA SIMILAR AO PSF] [QNT. DE] Medicos,MSAU3116
+Comunidades quilombolas,[EQUIPE DO PSF OU ESTRUTURA SIMILAR ATENDENDO] Comunidades quilombolas,MSAU321
+Povos indigenas,[EQUIPE DO PSF OU ESTRUTURA SIMILAR ATENDENDO] Povos indigenas,MSAU322
+Populacao em situacao de rua,[EQUIPE DO PSF OU ESTRUTURA SIMILAR ATENDENDO] Populacao em situacao de rua,MSAU323
+Ribeirinhos,[EQUIPE DO PSF OU ESTRUTURA SIMILAR ATENDENDO] Ribeirinhos,MSAU324
+Outras comunidades e povos tradicionais,[EQUIPE DO PSF OU ESTRUTURA SIMILAR ATENDENDO] Outras comunidades e povos tradicionais,MSAU325
+Nao existe,[EQUIPE DO PSF OU ESTRUTURA SIMILAR ATENDENDO] Nao existe,MSAU326
+Posto ou servico regular de vacinacao - existencia,Posto ou servico regular de vacinacao - existencia,MSAU33
+O municipio utiliza a Caderneta de Saude da Crianca distribuida pelo Ministerio da Saude para o registro das vacinas aplicadas,O municipio utiliza a Caderneta de Saude da Crianca distribuida pelo Ministerio da Saude para o registro das vacinas aplicadas,MSAU34
+Numero e a periodicidade do fornecimento de caderneta  atendem as necessidades do municipio,Numero e a periodicidade do fornecimento de caderneta  atendem as necessidades do municipio,MSAU35
+Fornece a Caderneta de Saude da Crianca para ser distribuida nos estabelecimentos privados de saude(fora da rede do SUS)  que realizam parto e/ou imunizacao,Fornece a Caderneta de Saude da Crianca para ser distribuida nos estabelecimentos privados de saude(fora da rede do SUS)  que realizam parto e/ou imunizacao,MSAU36
+Tem modelo proprio de caderneta ou cartao de registro de vacina fornecido ao usuario,Tem modelo proprio de caderneta ou cartao de registro de vacina fornecido ao usuario,MSAU37
+Promocao do uso da Caderneta de Saude do Adolescente,[EXISTE POLITICA/PROG./ACAO DE] Promocao do uso da Caderneta de Saude do Adolescente,MSAU381
+Pre-natal masculino/parceiro,[EXISTE POLITICA/PROG./ACAO DE] Pre-natal masculino/parceiro,MSAU382
+Testagem de HIV e sifilis para gestantes,[EXISTE POLITICA/PROG./ACAO DE] Testagem de HIV e sifilis para gestantes,MSAU383
+Teste do pezinho,[EXISTE POLITICA/PROG./ACAO DE] Teste do pezinho,MSAU384
+Teste da orelhinha,[EXISTE POLITICA/PROG./ACAO DE] Teste da orelhinha,MSAU385
+Teste do olhinho,[EXISTE POLITICA/PROG./ACAO DE] Teste do olhinho,MSAU386
+Teste do coracaozinho,[EXISTE POLITICA/PROG./ACAO DE] Teste do coracaozinho,MSAU387
+Nenhum dos citados,[EXISTE POLITICA/PROG./ACAO DE] Nenhum dos citados,MSAU388
+Programa de Planejamento Familiar ou Reprodutivo - existencia,Programa de Planejamento Familiar ou Reprodutivo - existencia,MSAU39
+Camisinha masculina,[PROG. DE PLAN. FAMILIAR OU REPRODUTIVO] [DISTRIBUI] Camisinha masculina,MSAU3911
+Camisinha feminina,[PROG. DE PLAN. FAMILIAR OU REPRODUTIVO] [DISTRIBUI] Camisinha feminina,MSAU3912
+Pilula anticoncepcional,[PROG. DE PLAN. FAMILIAR OU REPRODUTIVO] [DISTRIBUI] Pilula anticoncepcional,MSAU3913
+Pilula do dia seguinte,[PROG. DE PLAN. FAMILIAR OU REPRODUTIVO] [DISTRIBUI] Pilula do dia seguinte,MSAU3914
+Anticoncepcional injetavel,[PROG. DE PLAN. FAMILIAR OU REPRODUTIVO] [DISTRIBUI] Anticoncepcional injetavel,MSAU3915
+Diafragma,[PROG. DE PLAN. FAMILIAR OU REPRODUTIVO] [DISTRIBUI] Diafragma,MSAU3916
+Dispositivo intrauterino (DIU),[PROG. DE PLAN. FAMILIAR OU REPRODUTIVO] [DISTRIBUI] Dispositivo intrauterino (DIU),MSAU3917
+Outros,[PROG. DE PLAN. FAMILIAR OU REPRODUTIVO] [DISTRIBUI] Outros,MSAU3918
+Nao e feita distribuicao,[PROG. DE PLAN. FAMILIAR OU REPRODUTIVO] [DISTRIBUI] Nao e feita distribuicao,MSAU3919
+"Nos servicos de saude da atencao basica, no municipio, e feita a colocacao do dispositivo intrauterino (DIU) ","Nos servicos de saude da atencao basica, no municipio, e feita a colocacao do dispositivo intrauterino (DIU) ",MSAU40
+Populacao negra,[EXISTE PROG./ACOES DE SAUDE VOLTADAS PARA] Populacao negra,MSAU411
+Populacao em situacao de rua,[EXISTE PROG./ACOES DE SAUDE VOLTADAS PARA] Populacao em situacao de rua,MSAU412
+Povos indigenas,[EXISTE PROG./ACOES DE SAUDE VOLTADAS PARA] Povos indigenas,MSAU413
+Comunidades quilombolas,[EXISTE PROG./ACOES DE SAUDE VOLTADAS PARA] Comunidades quilombolas,MSAU414
+Outras comunidades e povos tradicionais,[EXISTE PROG./ACOES DE SAUDE VOLTADAS PARA] Outras comunidades e povos tradicionais,MSAU415
+Nenhum programa ou acao,[EXISTE PROG./ACOES DE SAUDE VOLTADAS PARA] Nenhum programa ou acao,MSAU416
+E preciso referenciar para outro municipio a realizacao de exames de pacientes da Atencao Basica,E preciso referenciar para outro municipio a realizacao de exames de pacientes da Atencao Basica,MSAU42
+E preciso referenciar para outro municipio internacoes de pacientes da Atencao Basica,E preciso referenciar para outro municipio internacoes de pacientes da Atencao Basica,MSAU43
+O encaminhamento de pacientes referenciados na Atencao Basica e feito,O encaminhamento de pacientes referenciados na Atencao Basica e feito,MSAU44
+Servico publico municipal,[A POP. DISPOE DE SERV. DE ATEND. DE EMERGENCIA (RISCO DE VIDA 24H)] Servico publico municipal,MSAU451
+Em outro servico publico,[A POP. DISPOE DE SERV. DE ATEND. DE EMERGENCIA (RISCO DE VIDA 24H)] Em outro servico publico,MSAU452
+Servico privado conveniado (SUS),[A POP. DISPOE DE SERV. DE ATEND. DE EMERGENCIA (RISCO DE VIDA 24H)] Servico privado conveniado (SUS),MSAU453
+Transportado e/ou referenciado para servico publico em outro municipio,[A POP. DISPOE DE SERV. DE ATEND. DE EMERGENCIA (RISCO DE VIDA 24H)] Transportado e/ou referenciado para servico publico em outro municipio,MSAU454
+Transportado e/ou referenciado para servico privado conveniado (SUS) em outro municipio,[A POP. DISPOE DE SERV. DE ATEND. DE EMERGENCIA (RISCO DE VIDA 24H)] Transportado e/ou referenciado para servico privado conveniado (SUS) em outro municipio,MSAU455
+Nao,[A POP. DISPOE DE SERV. DE ATEND. DE EMERGENCIA (RISCO DE VIDA 24H)] Nao,MSAU456
+Servico de nefrologia (Hemodialise - HD e Dialise Peritoneal Intermitente - DPI),"[EXISTE NO MUNICIPIO, EM ESTABELECIMENTO PUBLICO OU CONVENIADO AO SUS] Servico de nefrologia (Hemodialise - HD e Dialise Peritoneal Intermitente - DPI)",MSAU46
+Leitos/bercos de unidade de terapia intensiva neonatal,"[EXISTE NO MUNICIPIO, EM ESTABELECIMENTO PUBLICO OU CONVENIADO AO SUS] Leitos/bercos de unidade de terapia intensiva neonatal",MSAU47
+Leitos/bercos de unidade de cuidados intermediarios,"[EXISTE NO MUNICIPIO, EM ESTABELECIMENTO PUBLICO OU CONVENIADO AO SUS] Leitos/bercos de unidade de cuidados intermediarios",MSAU48
+Hospital de ensino e pesquisa credenciado pelo Ministerio da Saude e da Educacao,[UN. DE SAUDE EXISTENTES NO MUNICIPIO] Hospital de ensino e pesquisa credenciado pelo Ministerio da Saude e da Educacao,MSAU49
+De responsabilidade da gestao municipal,[UN. DE SAUDE EXISTENTES NO MUNICIPIO] [HOSP. DE ENSINO E PESQUISA CREDENCIADO PELO MS E ME] De responsabilidade da gestao municipal,MSAU491
+Quantidade,[UN. DE SAUDE EXISTENTES NO MUNICIPIO] [HOSP. DE ENSINO E PESQUISA CREDENCIADO PELO MS E ME] [DE RESP. DA GESTAO MUNICIPAL] Quantidade,MSAU4911
+Instituicao que faca atendimento especifico a usuarios de drogas ilicitas,Instituicao que faca atendimento especifico a usuarios de drogas ilicitas,MSAU50
+Quantidade,[INSTITUICAO QUE FACA ATENDIMENTO ESPECIFICO A USUARIOS DE DROGAS ILICITAS] Quantidade,MSAU501
+Estabelecimento de saude publicos ou conveniados ao SUS que realizam parto hospitalar,Estabelecimento de saude publicos ou conveniados ao SUS que realizam parto hospitalar,MSAU51
+Total de estabelecimentos publicos municipais,[ESTAB. DE SAUDE PUB. OU CONV. AO SUS QUE REALIZAM PARTO HOSP.] Total de estabelecimentos publicos municipais,MSAU51111
+Total de outros estabelecimentos,[ESTAB. DE SAUDE PUB. OU CONV. AO SUS QUE REALIZAM PARTO HOSP.] Total de outros estabelecimentos,MSAU51112
+Estabelecimentos publicos municipais com interligacao com cartorios de registro civil de nascimento,[ESTAB. DE SAUDE PUB. OU CONV. AO SUS QUE REALIZAM PARTO HOSP.] Estabelecimentos publicos municipais com interligacao com cartorios de registro civil de nascimento,MSAU51121
+Outros estabelecimentos com interligacao com cartorios de registro civil de nascimento,[ESTAB. DE SAUDE PUB. OU CONV. AO SUS QUE REALIZAM PARTO HOSP.] Outros estabelecimentos com interligacao com cartorios de registro civil de nascimento,MSAU51122
+Estabelecimentos publicos municipais com posto de cartorio,[ESTAB. DE SAUDE PUB. OU CONV. AO SUS QUE REALIZAM PARTO HOSP.] Estabelecimentos publicos municipais com posto de cartorio,MSAU51131
+Outros estabelecimentos com posto de cartorio,[ESTAB. DE SAUDE PUB. OU CONV. AO SUS QUE REALIZAM PARTO HOSP.] Outros estabelecimentos com posto de cartorio,MSAU51132
+Centro de Parto Normal,[UN. DE SAUDE EXISTENTES NO MUNICIPIO] Centro de Parto Normal,MSAU521
+Quantos,[UN. DE SAUDE EXISTENTES NO MUNICIPIO] [CENTRO DE PARTO NORMAL] Quantos,MSAU5211
+Casa de Gestante,[UN. DE SAUDE EXISTENTES NO MUNICIPIO] Casa de Gestante,MSAU522
+Quantas,[UN. DE SAUDE EXISTENTES NO MUNICIPIO] [CASA DE GESTANTE] Quantas,MSAU5221
+Nao existe,[UN. DE SAUDE EXISTENTES NO MUNICIPIO] Nao existe,MSAU523
+Gestao municipal realiza a busca ativa dos casos de nascidos vivos nao registrados para promover o registro civil de nascimento,Gestao municipal realiza a busca ativa dos casos de nascidos vivos nao registrados para promover o registro civil de nascimento,MSAU53
+Vigilancia sanitaria,[SERV. DE VIG. REALIZADO PELA GESTAO MUN.] Vigilancia sanitaria,MSAU541
+Vigilancia epidemiologica ,[SERV. DE VIG. REALIZADO PELA GESTAO MUN.] Vigilancia epidemiologica ,MSAU542
+Controle de endemias,[SERV. DE VIG. REALIZADO PELA GESTAO MUN.] Controle de endemias,MSAU543
+Nao realiza nenhum dos servicos,[SERV. DE VIG. REALIZADO PELA GESTAO MUN.] Nao realiza nenhum dos servicos,MSAU544
+Representante de usuarios dos servicos de saude,[CMS] [COMPOSICAO] Representante de usuarios dos servicos de saude,MSAU161
+Representante da Camara Municipal,[CMS] [COMPOSICAO] Representante da Camara Municipal,MSAU162
+Representante dos gestores da rede municipal de saude,[CMS] [COMPOSICAO] Representante dos gestores da rede municipal de saude,MSAU163
+Representante dos servidores da rede municipal de saude ,[CMS] [COMPOSICAO] Representante dos servidores da rede municipal de saude ,MSAU164
+Representante do Fundo Municipal de Saude,[CMS] [COMPOSICAO] Representante do Fundo Municipal de Saude,MSAU165
+Representante da rede privada de saude,[CMS] [COMPOSICAO] Representante da rede privada de saude,MSAU166
+Representante de sindicato/associacao de profissionais da saude,[CMS] [COMPOSICAO] Representante de sindicato/associacao de profissionais da saude,MSAU167
+Representante do movimento negro,[CMS] [COMPOSICAO] Representante do movimento negro,MSAU168
+Representante de comunidades quilombolas,[CMS] [COMPOSICAO] Representante de comunidades quilombolas,MSAU169
+Representante de povos indigenas,[CMS] [COMPOSICAO] Representante de povos indigenas,MSAU1610
+Representante de outros povos e comunidades tradicionais,[CMS] [COMPOSICAO] Representante de outros povos e comunidades tradicionais,MSAU1611
+Representante de entidades religiosas,[CMS] [COMPOSICAO] Representante de entidades religiosas,MSAU1612
+Outros,[CMS] [COMPOSICAO] Outros,MSAU1613
