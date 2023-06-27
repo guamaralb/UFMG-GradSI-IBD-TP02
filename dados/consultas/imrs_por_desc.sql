@@ -11,6 +11,8 @@ FROM public."MUNICIPIO" AS mun
 		AND pop.ano = rep.ano
 	
 WHERE imrs.desc = 'Taxa bruta de mortalidade'
+OR imrs.desc = 'Proporção da população atendida pela Estratégia de Saúde da Família'
+AND mun.ibge7 = 3100104
 	
 GROUP BY mun.nome, mun.ibge7, rep.ano, imrs.desc, imrs.valor, pop.qnt
 ORDER BY mun.nome, rep.ano
